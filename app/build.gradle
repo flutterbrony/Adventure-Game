@@ -3,8 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "org.ynov.martinez.antoine.adventuregame"
-        minSdkVersion 14
+        applicationId "org.ynov.martinez.antoine.adventuregame2"
+        minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
